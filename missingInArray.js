@@ -1,4 +1,4 @@
-// QUESTIONS => Find the missing number in a given integer array of 1 to 100
+// QUESTIONS => Find the missing number in a given integer array of 1 to 13
 
 // PROBLEM => I CAN ONLY FIND ONE NUMBER IN THIS ARRAY ... IF MORE NUMBER ARE MISSING WE CAN'T FIND IT IN IT
 
